@@ -1,5 +1,5 @@
 class Solution:
-    def select_sort(self, nums):
+    def selection_sort(self, nums):
         if not nums:
             return
         size = len(nums)
